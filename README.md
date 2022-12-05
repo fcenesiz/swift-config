@@ -1,11 +1,11 @@
 # swift-config
 Some configurations for swift
 
-visual studio code
+## visual studio code
 
-download extension: code_runner
+download extension: ``code_runner``
 
-``settings-> Code-runner:Executer Map-> Edit in settings.json``
+settings-> Code-runner:Executer Map-> Edit in settings.json
 
 add to ``"code-runner.executorMap"``
 
